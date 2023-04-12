@@ -1,2 +1,2 @@
 # Contact-Management-System
-This simple project made by files and have a very simple functionality 
+This is a C++ program for a simple Contact Management System that allows users to create, edit, search, delete, and display contacts using a console-based user interface. The program uses file handling to store the contacts in a binary file, "CMS.dat." The program has a Contact class with member functions that allow the user to create, show, search, edit, and delete contacts. The program has a main menu that allows the user to select the desired operation. The program provides an interactive console interface that guides the user through the various functions.
